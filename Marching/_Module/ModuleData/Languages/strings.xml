@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+	  <string id="no_formations_selected" text="No formations selected to march!" />
+	  <string id="dismiss_single_formation" text="{FORMATION}, dismiss march!" />
+	  <string id="march_single_formation" text="{FORMATION}, march!" />
+	  <string id="march_multiple_formations" text="{FORMATIONS}, march!" />
+	  <string id="dismiss_multiple_formations" text="{FORMATIONS}, dismiss march!" />
+	  <string id="everyone_march" text="Everyone! March!" />
+	  <string id="everyone_dismiss" text="Everyone! Dismiss march!" />
+	  <string id="march_order_key" text="March order key" />
+	  <string id="artemis_support" text="Artemis spear animation support" />
+  </strings>
+</base>
